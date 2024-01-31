@@ -1,1 +1,1 @@
-function  validar_usuarios() { }
+function  validar_usuarios(usuario, cotrasena) { }
